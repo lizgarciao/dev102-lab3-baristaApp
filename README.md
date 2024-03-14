@@ -1,8 +1,11 @@
-# React + Vite
+# Barista App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+By the end of this lab you will be able to...
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create React forms from scratch and dynamically populating their answer choices
+- Create a new custom component within a parent component and passing in props and ways to edit state variables
+- Creating and using React forms
+- Creating and setting state variables of all kinds
+- Using state variables to edit information on a page
+- Importing data files into an app
+- Using user input to change a visual aspect of the app
